@@ -3,8 +3,6 @@
 This is the first file in this repo.
 
 
-## Some text Below
+## Website conetents
 
-Just some simple plain text for readme file modification.
-
-Some more text.
+1. index.html
